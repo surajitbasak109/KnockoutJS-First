@@ -46,6 +46,9 @@
                                 <a href="lists_collections.php" style="display: block;">Working with Lists and Collections
                                 </a>
                             </li>
+                            <li class="list-group-item">
+                                <a href="single_page_application.php" style="display: block;">Single page applications</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
